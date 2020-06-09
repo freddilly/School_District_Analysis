@@ -11,6 +11,8 @@ Analyzing school district test scores (math & reading) in an attempt to gain ins
   - Grouping schools by school type (district or charter) to see school type's relationship to average test performance.
   
 ## Challenge
-
+There is evidence of academic dishonesty from the 9th graders at Thomas High School, and their scores must be replaced without removing them from the analysis. In this challenge, I replaced their math and reading scores with "NaN", and explored how this impacted all of the previous analysis. My findings are discussed below.
 
 ## Challenge Summary
+  - *District Summary:
+    - 
