@@ -15,12 +15,12 @@ There is evidence of academic dishonesty from the 9th graders at Thomas High Sch
 
 ## Challenge Summary
 *District Summary*:
-    - The average math score for the district fell from 79.0 to 78.9 after removal of the fraudulent scores.
-    - The average reading score for the district remained at 81.9.
-    - The percentage of students passing math fell from 75.0% to 73.9%.
-    - The percentage of students passing reading fell from 85.8% to 84.7%.
-    - The overall passing percentage for the district fell from 65.2% to 64.1%.
-
+   - The average math score for the district fell from 79.0 to 78.9 after removal of the fraudulent scores.
+   - The average reading score for the district remained at 81.9.
+   - The percentage of students passing math fell from 75.0% to 73.9%.
+   - The percentage of students passing reading fell from 85.8% to 84.7%.
+   - The overall passing percentage for the district fell from 65.2% to 64.1%.
+  
 *School Summary*:
    - The only school that was impacted by this removal of test scores was Thomas High School.
    - There was no change in the average math score of school.
@@ -58,6 +58,7 @@ There is evidence of academic dishonesty from the 9th graders at Thomas High Sch
    
 
 
+  
    
   
     
